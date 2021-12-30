@@ -6,8 +6,7 @@ __Gregory Miller__
 _Game Designer and Programmer_
 
 __Links:__
-[Website](https://www.gregmillerdesign.info/ "My Personal Website") |
-[Twitter](https://twitter.com/GregMillerGame "My Twitter")
+[Website](https://www.gregmillerdesign.info/ "My Personal Website") | [Itch.io](https://www.gregmillerdesign.info/ "My Itch.io Page")
 
 ### Tools and Language of Choice:
 
