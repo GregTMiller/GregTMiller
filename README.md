@@ -51,7 +51,7 @@ __Roles:__
   * Worked with a talented composer to create a dyanmic soundtrack, and then intergated it into UE4 using FMOD. Also intregated all sound effects in the game. 
   
 __Links:__
-[Website](https://ameliarose.itch.io/blackout "Game Website") |
+[Website](https://ameliarose.itch.io/blackout "Game Website") 
 
 
 
