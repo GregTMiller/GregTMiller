@@ -24,6 +24,17 @@ __Links:__
 
 ### Past Projects:
 
+#### Humans Lived Here
+
+__Game Summary:__ My submission to the 49th Luden Dare. Join Hudson as they explore the ruins of civilization torn apart by an unstable environment, trying to find his unconscious body. Basic 2D platformer that was used as a test to pratice 2D game devolpement and start work on my custom Dialogue System.
+
+__Roles:__ 
+* _Solo Project_
+  * Everything (outside of the base engine and some fonts) was made by me in 48 Hours.
+ 
+ __Links:__
+[Website](https://gregtmiller.itch.io/humanslivedhere "Game Website") 
+
 #### Install Wizard by Missing Link Games
 
 __Game Summary:__ Install Wizard is a currently in development 3D dungeon crawler where you play as a simple wizard inside of a 90’s era computer who has been tossed aside after installing the evil operating system, MythOS. It is your job as the Install Wizard to become more powerful by taking on the programs of MythOS with your techno-magic. Jump between different programs, face numerous enemies, defeat bosses, collect new spells and modifications, and defeat the operating system once and for all.
@@ -40,7 +51,7 @@ __Links:__
 
 #### Blackout by Man Down Studio
 
-__Game Summary:__ Install Wizard is a currently in development 3D dungeon crawler where you play as a simple wizard inside of a 90’s era computer who has been tossed aside after installing the evil operating system, MythOS. It is your job as the Install Wizard to become more powerful by taking on the programs of MythOS with your techno-magic. Jump between different programs, face numerous enemies, defeat bosses, collect new spells and modifications, and defeat the operating system once and for all.
+__Game Summary:__ Blackout is a Two-Player Co-Op game where players take the role of an arctic researcher trying to restore power to the Fawl-T Research Station. Both players must work together to navigate around the base and activate machines by connecting them to a handheld generator. Will you be able to fix the issues, or will the base be stuck without power? It’s up to you to decide.
 
 __Roles:__ 
 * _Level Designer_
